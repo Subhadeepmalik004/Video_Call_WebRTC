@@ -13,12 +13,7 @@ https://github.com/user-attachments/assets/d9467e49-a8f7-437e-8e18-edf5861ad839
    ```bash
    npm init
 3. Terminal:
-   1. Client Terminal ->
+   Client & Server Run:
      ```bash
-      cd client
       npm start
      ```
-   2. Server Terminal ->
-   ```bash
-    cd server
-    npm start
